@@ -1,12 +1,14 @@
 # Hi! I am Pranjali Joshi
 
-- 🤩 I’m interested in - 🎼Music, 🎨 Art, 🛼 Skating, ♟Chess, 🎮 Coding ETC....;
+- 🤩 I’m interested in - 🎼Music, 🎨 Art, 🛼 Skating, ♟Chess, 🎮 Coding, Badminton ETC....;
 - 🏆 I’m currently learning - 'Infinite'Things;
 - 👩‍🎓 I'm a certified App and Game developer from WhiteHatJr;
-- 🤩 Fact - Ican solve rubics cube, gear cube under a minute and magic cube under 2 minutes!!
+- 🤩 Fact - Ican solve rubics cube, gear cube and pyraminx under a minute and magic cube under 2 minutes!!
 - 🤩 Fact - I have done my senior diploma in music - vocal!! 
-- 👩‍💼 I have a You Tube channel - https://www.youtube.com/PranjaliJoshi16 ;
+- 🤩 Fact - I can play guitar, keyboard, tabla, harmonium etc...
+- 👩‍💼 I have a You Tube channel - youtube.com/pjtimes ;
 - 👩‍💻 Join me @ whithatjr - https://whjr.co/X3dIO ;
+- pranjali06kjoshi@gmail.com ..!
 
 <!---
 PJCoder16/PJCoder16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
