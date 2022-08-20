@@ -1,6 +1,6 @@
 # Hi! I am Pranjali Joshi
 
-- 🤩 I’m interested in - 🎼Music, 🎨 Art, 🛼 Skating, ♟Chess, 🎮 Coding, Badminton ETC....;
+- 🤩 I’m interested in - 🎼Music, 🎨 Art, 🛼 Skating, ♟Chess, 🎮 Coding, Badminton ETC...;
 - 🏆 I’m currently learning - 'Infinite'Things;
 - 👩‍🎓 I'm a certified App and Game developer from WhiteHatJr;
 - 🤩 Fact - Ican solve rubics cube, gear cube and pyraminx under a minute and magic cube under 2 minutes!!
