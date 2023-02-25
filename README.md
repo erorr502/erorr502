@@ -11,7 +11,7 @@
 - 👩‍💻 Join me @ whithatjr - https://whjr.co/X3dIO ;
 
 - I have many many more things to tell and that won't even fit this README...
-- Reach out for projects, repositories, collaborations and even conversations... => pranjali06kjoshi@gmail.com ..!
+- Reach out for projects, repositories and collaborations... => pranjali06kjoshi@gmail.com ..!
 
 <!---
 PJCoder16/PJCoder16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
