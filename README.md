@@ -8,10 +8,9 @@
 - 🤩 Fact - I can play several musical instruments;
 - 🤩 Fact - I have a great interest in sketching and painting;
 - 👩‍💼 I have a You Tube channel - https://youtube.com/pjtimes ;
-- 👩‍💻 Join me @ whithatjr - https://whjr.co/X3dIO ;
 
 - I have many many more things to tell and that won't even fit this README...
-- Reach out for projects, repositories and collaborations... => pranjali06kjoshi@gmail.com ..!
+- Reach out for projects and collaborations... => pranjali06kjoshi@gmail.com ..!
 
 <!---
 PJCoder16/PJCoder16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
