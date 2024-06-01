@@ -6,8 +6,9 @@
 - ⚡️ Fact - I can solve rubics cube, gear cube and pyraminx under a minute and magic cube under 2 minutes!!
 - ⚡️ Fact - I have done my senior diploma in Indian classical music;
 - ⚡️ Fact - I can play several musical instruments;
-- ⚡️ Fact - I have a great interest in sketching and painting, recently I also won International Emerging Youth Artist Award;
+- ⚡️ Fact - I have also won International Emerging Youth Artist Award for sketching and painting;
 - ⚡️ Fact - I like skating and playing chess/badminton;
+- ⚡️ Fact - Recently I was also selected for Young Scientists Programme conducted by ISRO;
 - ⚡️ I have a You Tube channel - https://youtube.com/pjtimes ;
 
 - I have many many more things to tell and that won't even fit this README...
