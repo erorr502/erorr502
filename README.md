@@ -1,13 +1,14 @@
 # Hey! I am Pranjali Joshi
 
-- 👩‍🎓 I'm a certified Full Stack Coder, App and Game developer;
-- 🏆 I’m currently learning - 'Infinite'Things;
-- 🤩 Fact - I can solve rubics cube, gear cube and pyraminx under a minute and magic cube under 2 minutes!!
-- 🤩 Fact - I have done my senior diploma in vocal music;
-- 🤩 Fact - I can play several musical instruments;
-- 🤩 Fact - I have a great interest in sketching and painting;
-- 🤩 Fact - I also like skating and playing chess/badminton;
-- 👩‍💼 I have a You Tube channel - https://youtube.com/pjtimes ;
+- ⚡️ I'm a certified Full Stack Coder, App and Game developer;
+- ⚡️ I mainly work with Python, Javascript, and React;
+- ⚡️ I’m currently learning - 'Infinite'Things;
+- ⚡️ Fact - I can solve rubics cube, gear cube and pyraminx under a minute and magic cube under 2 minutes!!
+- ⚡️ Fact - I have done my senior diploma in Indian classical music;
+- ⚡️ Fact - I can play several musical instruments;
+- ⚡️ Fact - I have a great interest in sketching and painting, recently I also won International Emerging Youth Artist Award;
+- ⚡️ Fact - I like skating and playing chess/badminton;
+- ⚡️ I have a You Tube channel - https://youtube.com/pjtimes ;
 
 - I have many many more things to tell and that won't even fit this README...
 - Reach out for projects and collaborations... => pranjali06kjoshi@gmail.com ..!
